@@ -1,0 +1,20 @@
+.Lst {
+    display: flex;
+    background-color: gray;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+.Lst label {
+    color: white;
+
+}
+.Lst input {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: 1rem;
+}
+.done {
+    text-decoration: line-through;
+}

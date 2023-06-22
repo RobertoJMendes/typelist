@@ -1,0 +1,21 @@
+body{
+  margin: 0px;
+  background-color: black;
+}
+#root {
+  background-color: #17181f;
+  color: #797a81;
+  min-height: 100vh;
+  margin: auto;
+  max-width: 1000px;
+  padding: 1rem;
+}
+h1 {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid green;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
