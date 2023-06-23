@@ -1,5 +1,5 @@
 //import React from 'react'
-import { useState } from 'react'
+import { useState, KeyboardEvent } from 'react'
 import "./AdTarf.css"
 
 type Props ={
@@ -35,4 +35,4 @@ const AdTarf = ({ onEnter }:Props) => {
   )
 }
 
-export default AdTarf
+export default AdTarf;
